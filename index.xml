@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris</title>
+    <link>https://chrisyxzhang.github.io/Chris/</link>
+    <description>Recent content on Chris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jul 2017 00:19:33 +1200</lastBuildDate>
+    
+	<atom:link href="https://chrisyxzhang.github.io/Chris/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sunrise</title>
+      <link>https://chrisyxzhang.github.io/Chris/post/sunrise/</link>
+      <pubDate>Sun, 16 Jul 2017 00:19:33 +1200</pubDate>
+      
+      <guid>https://chrisyxzhang.github.io/Chris/post/sunrise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://chrisyxzhang.github.io/Chris/post/hello-world/</link>
+      <pubDate>Sun, 16 Jul 2017 00:02:52 +1200</pubDate>
+      
+      <guid>https://chrisyxzhang.github.io/Chris/post/hello-world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Chris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jul 2017 00:19:33 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2017 10:38:02 +1200</lastBuildDate>
     
 	<atom:link href="https://chrisyxzhang.github.io/Chris/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Windy</title>
+      <link>https://chrisyxzhang.github.io/Chris/post/windy/</link>
+      <pubDate>Sun, 16 Jul 2017 10:38:02 +1200</pubDate>
+      
+      <guid>https://chrisyxzhang.github.io/Chris/post/windy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sunrise</title>
